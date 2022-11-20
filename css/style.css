@@ -445,7 +445,7 @@ h6,
     color:#fff;background-color:#654ad9;border-color:#654ad9;box-shadow: #5432e6 0px 0 10px 4px;
 }
 .btn-check:focus+.btn-clr,.btn-clr:focus{
-    color:#000;background-color:#65cdf5;border-color:#5ccaf4;box-shadow:0 0 0 .25rem rgba(63,167,207,0.5)
+    color:#000;background-color:#654ad9;border-color:#654ad9;box-shadow:0 0 0 .25rem #654ad9
 }
 
 .btn-clr1{
@@ -455,5 +455,5 @@ h6,
     color:#654ad9;background-color:#fff;border-color:#fff;
 }
 .btn-check:focus+.btn-clr1,.btn-clr1:focus{
-    color:#000;background-color:#fff;border-color:#fff;box-shadow:0 0 0 .25rem rgba(63,167,207,0.5)
+    color:#000;background-color:#fff;border-color:#fff;box-shadow:0 0 0 .25rem #654ad9
 }
